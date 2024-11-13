@@ -1,0 +1,8 @@
+,params,mean_fit_time,mean_score_time,mean_test_score,mean_train_score,model_name
+0,"{'p': 1, 'n_neighbors': 20}",0.008127307891845703,1.5010911464691161,0.8297349002459689,0.8484012025143481,knn
+1,{'penalty': None},1.9255680561065673,0.0036704540252685547,0.8704564088548784,0.8724514894779996,logistic_regression
+2,"{'min_samples_leaf': 10, 'max_depth': 10, 'criterion': 'entropy'}",0.10464243888854981,0.001725006103515625,0.8830828095107952,0.9070921016671221,decision_tree
+3,"{'n_estimators': 500, 'min_samples_leaf': 10, 'max_depth': 20, 'criterion': 'entropy'}",14.458728218078614,0.29230670928955077,0.8965291063132004,0.9221645258267286,random_forest
+4,"{'n_estimators': 500, 'max_depth': 15}",16.916137218475342,0.7563465595245361,0.9057119431538672,1.0,xg_boost
+5,"XGBClassifier(n_estimators = 500, max_depth = 15); RandomForestClassifier(n_estimators = 500, min_samples_leaf = 10, max_depth = 20, criterion = entropy); XGBClassifier(n_estimators = 100, max_depth = 10)",18.180751228332518,0.711990213394165,0.9070784367313474,1.0,voting_classifier
+6,{'penalty': None},7.880717420578003,0.0005680561065673828,0.874829188302815,0.8770702377698825,logistic_regression_feateng

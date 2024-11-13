@@ -50,10 +50,7 @@ Nhóm chúng tôi lấy tập dữ liệu đó, sau đó tải về và bỏ và
     pip install -r requirements.txt
     ```
 
-4. Phân tích dữ liệu và huấn luyện mô hình **(Lưu ý: khi thực hiện bước này có thể mất rất nhiều thời gian)**:
-    ```bash
-    jupyter notebook ml.ipynb
-    ```
+4. Phân tích dữ liệu và huấn luyện mô hình **(Lưu ý: khi thực hiện bước này có thể mất rất nhiều thời gian)** bằng cách chạy file ml.ipynb
 
 5. Chạy ứng dụng:
     ```bash
