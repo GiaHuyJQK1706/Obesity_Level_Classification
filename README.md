@@ -1,5 +1,4 @@
 # Obesity Level Classification - Dự đoán và phân loại mức độ béo phì của một người
-**Bài tập lớn (Project) học phần Nhập môn Học máy và Khai phá dữ liệu**
 ---
 ## Mục lục
 - [Tổng quan](#tổng-quan)
