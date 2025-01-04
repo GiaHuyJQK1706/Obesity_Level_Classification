@@ -6,7 +6,6 @@
 - [Tập dữ liệu](#tập-dữ-liệu)
 - [Cài đặt](#cài-đặt)
 - [Công nghệ sử dụng](#công-nghệ-sử-dụng)
-- [Cộng tác viên](#cộng-tác-viên)
 
 ## Tổng quan
 Béo phì được biết đến như một tình trạng xấu của sức khỏe, bị ảnh hưởng bởi nhiều yếu tố như tình trạng di truyền, thói quen ăn kiêng, hoạt động thể chất và tình trạng kinh tế xã hội. Mục đích của dự án này là sử dụng nhiều yếu tố để dự đoán khả năng béo phì của một cá nhân, một trong những yếu tố góp phần đáng kể vào nguy cơ mắc bệnh tim mạch. Bằng cách đào tạo một mô hình có thể dự đoán chính xác nguy cơ béo phì, chúng tôi hy vọng có thể phân loại những cá nhân có nguy cơ cao mắc bệnh béo phì. Dựa trên những hiểu biết này, chúng ta có thể phát triển các biện pháp can thiệp để ngăn ngừa béo phì và các vấn đề sức khỏe liên quan trong tương lai gần.
