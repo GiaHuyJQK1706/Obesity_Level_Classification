@@ -14,7 +14,6 @@ Béo phì được biết đến như một tình trạng xấu của sức kh�
 ```
 checkpoint/                 # triển khai model .joblib
 data/                       # dữ liệu thô
-docs/                       # báo cáo và slide thuyết trình
 .gitignore
 app.py                      # app python với framework Gradio
 ml.ipynb                    # file jupyter notebooks để train và phân tích dữ liệu
@@ -65,3 +64,6 @@ Nhóm chúng tôi lấy tập dữ liệu đó, sau đó tải về và bỏ và
 - **xgboost==2.0.3**: Thuật toán tăng cường gradient mạnh mẽ dành cho các bài toán dự đoán và học máy, tối ưu về tốc độ và hiệu quả.
 - **flask**: Web framework đơn giản và nhẹ cho ứng dụng web Python, sử dụng để xây dựng API và trang web cơ bản.
 - **gradio**: Thư viện tạo giao diện web đơn giản để thử nghiệm và tương tác với mô hình máy học dễ dàng.
+
+## Tác giả
+Đỗ Gia Huy - 20215060
